@@ -162,10 +162,10 @@ If you use this dataset or analysis in your research, please cite:
 ```bibtex
 @article{author2026agentic,
   title={When Agentic AI Meets Cybersecurity: A Systematic Literature Review of Threats, Attacks, and Defences},
-  author={[Author Name]},
+  author={[Rao Faizan Ali]},
   journal={[Journal Name]},
   year={2026},
-  note={Replication data: https://github.com/YOUR_USERNAME/agentic-ai-cybersecurity-slr}
+  note={Replication data: https://github.com/rfagreat/agentic-ai-cybersecurity-slr}
 }
 ```
 
