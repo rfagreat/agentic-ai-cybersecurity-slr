@@ -1,6 +1,6 @@
 # When Agentic AI Meets Cybersecurity: A Systematic Literature Review
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/agentic-ai-cybersecurity-slr/blob/main/notebooks/OWASP_Agentic_AI_SLR_Analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rfagreat/agentic-ai-cybersecurity-slr/blob/main/notebooks/OWASP_Agentic_AI_SLR_Analysis.ipynb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Studies](https://img.shields.io/badge/Studies_Reviewed-75-green.svg)](#dataset)
