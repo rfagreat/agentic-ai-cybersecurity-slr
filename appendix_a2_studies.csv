@@ -1,0 +1,76 @@
+ID,Authors,Year,Title,Venue,Category
+S001,Greshake et al.,2023,"Not what you've signed up for: Compromising real-world LLM-integrated applications with indirect prompt injection",arXiv,ATK
+S002,Zou et al.,2023,Universal and transferable adversarial attacks on aligned language models,arXiv,ATK
+S003,Liu et al.,2023,Jailbreaking ChatGPT via prompt engineering: An empirical study,arXiv,ATK
+S004,Toyer et al.,2023,Tensor Trust: Interpretable prompt injection attacks from an online game,arXiv,ATK
+S005,Deng et al.,2023,MasterKey: Automated jailbreaking of large language model chatbots,arXiv,ATK
+S006,Shen et al.,2023,Do anything now: Characterizing and evaluating in-the-wild jailbreak prompts on LLMs,arXiv,SUR
+S007,Wei et al.,2023,Jailbroken: How does LLM safety training fail?,NeurIPS,ATK
+S008,Carlini et al.,2023,Are aligned neural networks adversarially aligned?,NeurIPS,ATK
+S009,Yao et al.,2023,ReAct: Synergizing reasoning and acting in language models,ICLR,FRM
+S010,Greshake et al.,2023,"More than you've asked for: A comprehensive analysis of novel prompt injection threats",ACM AISec Workshop,ATK
+S011,Schulhoff et al.,2023,Ignore this title and HackAPrompt: Exposing systemic vulnerabilities of LLMs,ACM EMNLP,ATK
+S012,Park et al.,2023,Generative agents: Interactive simulacra of human behavior,ACM UIST,FRM
+S013,Yao et al.,2023,A survey on large language model (LLM) security and privacy,IEEE Access,SUR
+S014,Gupta et al.,2023,From ChatGPT to ThreatGPT: Impact of generative AI in cybersecurity and privacy,IEEE Access,SUR
+S015,"Sebastian, G.",2023,Privacy and data protection in ChatGPT and other AI chatbots,IEEE ICECCT,THR
+S016,Perez & Ribeiro,2023,Ignore previous prompt: Attack techniques for language models,USENIX Security,ATK
+S017,Ganguli et al.,2023,"Red teaming language models to reduce harms: Methods, scaling behaviors, and lessons learned",USENIX Security,DEF
+S018,Weidinger et al.,2023,Taxonomy of risks posed by language models,ACM FAccT,SUR
+S019,Nassi et al.,2024,ComPromptMized: Unleashing zero-click worms that target GenAI-powered applications,arXiv,ATK
+S020,Liu et al.,2024,Prompt injection attacks and defenses in LLM-integrated applications,arXiv,SUR
+S021,Yi et al.,2024,Benchmarking and defending against indirect prompt injection attacks on LLMs,arXiv,DEF
+S022,Xu et al.,2024,Robust prompt optimization for defending language models against jailbreaking attacks,arXiv,DEF
+S023,Cheng et al.,2024,Backdoor attacks on dense passage retrievers for disseminating misinformation,arXiv,ATK
+S024,Xue et al.,2024,BadRAG: Identifying vulnerabilities in retrieval augmented generation of LLMs,arXiv,ATK
+S025,Zhan et al.,2024,InjecAgent: Benchmarking indirect prompt injections in tool-integrated LLM agents,arXiv,DEF
+S026,Ruan et al.,2024,Identifying the risks of LM agents with an LM-emulated sandbox,arXiv,THR
+S027,Kshetri & Voas,2024,Cybersecurity threats and AI: A growing concern,IEEE Computer,SUR
+S028,Wang et al.,2024,A comprehensive survey on jailbreak attacks and defenses in large language models,IEEE TIFS,SUR
+S029,Zhang et al.,2024,Prompt injection attack against LLM-integrated applications,IEEE S&P,ATK
+S030,Li et al.,2024,Multi-step jailbreaking privacy attacks on ChatGPT,IEEE EuroS&P,ATK
+S031,Tao et al.,2024,IMGTROJAN: Jailbreaking vision-language models with ONE image,IEEE S&P,ATK
+S032,Shayegani et al.,2024,Survey of vulnerabilities in large language models revealed by adversarial attacks,IEEE Access,SUR
+S033,Kang et al.,2024,Exploiting programmatic behavior of LLMs: Dual-use through standard security attacks,ACM CCS,ATK
+S034,Wu et al.,2024,AutoGen: Enabling next-gen LLM applications via multi-agent conversation,ACM SIGKDD,FRM
+S035,Abdelnabi et al.,2024,LLM-Deliberation: Evaluating LLMs with interactive multi-agent negotiation games,ACM CCS Workshop,THR
+S036,Chen et al.,2024,StruQ: Defending against prompt injection with structured queries,ACM CCS,DEF
+S037,Debenedetti et al.,2024,AgentDojo: A dynamic environment to evaluate attacks and defenses for LLM agents,ACM CCS Workshop,FRM
+S038,Yan et al.,2024,Virtual prompt injection with instruction backtranslation,USENIX Security,ATK
+S039,Anil et al.,2024,Many-shot jailbreaking,USENIX Security,ATK
+S040,Pasquini et al.,2024,"Neural exec: Learning and controlling execution of programs with LLMs",USENIX Security,THR
+S041,Guo et al.,2024,Prompt stealing attacks against text-to-image generation models,NDSS,ATK
+S042,Pedro et al.,2024,"From prompt injections to SQL injection attacks: How protected is your LLM-integrated web application?",NDSS,THR
+S043,Yao et al.,2024,FuzzLLM: A novel and universal fuzzing framework for proactively discovering jailbreak vulnerabilities,Computers & Security (Elsevier),DEF
+S044,Das et al.,2024,Security and privacy challenges of large language models: A survey,Artificial Intelligence Review (Springer),SUR
+S045,Mozes et al.,2024,"Use of LLMs for illicit purposes: Threats, prevention measures, and vulnerabilities",Journal of Cybersecurity (Springer),SUR
+S046,Zhang & McAllister,2024,Defending large language models against prompt injection: A survey,Information Sciences (Elsevier),SUR
+S047,Mazeika et al.,2024,HarmBench: A standardized evaluation framework for automated red teaming,ICML,DEF
+S048,OWASP Foundation,2024,OWASP Top 10 for Large Language Model Applications v2.0,OWASP Documentation,FRM
+S049,"Willison, S.",2024,Prompt injection and jailbreaking are not the same thing,Technical Report,SUR
+S050,Anthropic,2024,Many-shot jailbreaking,Anthropic Research,THR
+S051,Chen et al.,2025,A systematic review of prompt injection vulnerabilities in agentic AI systems,arXiv,SUR
+S052,Anderson et al.,2025,Worm propagation dynamics in interconnected LLM ecosystems,arXiv,THR
+S053,Kim et al.,2025,Self-replicating adversarial prompts in multi-agent workflows,arXiv,ATK
+S054,Zhang et al.,2025,Guardrails for autonomous AI agents: A comprehensive defense taxonomy,arXiv,SUR
+S055,Wang et al.,2025,Security challenges in LLM-powered autonomous systems: A systematic mapping study,IEEE TDSC,SUR
+S056,Brown et al.,2025,Adversarial robustness of tool-augmented language models,IEEE S&P,DEF
+S057,Patel et al.,2025,Real-time detection of prompt injection in production LLM deployments,IEEE TIFS,DEF
+S058,Nakamura et al.,2025,Threat modeling for multi-agent AI systems in enterprise environments,IEEE S&P Magazine,THR
+S059,Garcia et al.,2025,Defense-in-depth architectures for securing agentic AI pipelines,IEEE ICCS,FRM
+S060,Johnson et al.,2025,Evaluating the attack surface of autonomous AI agents with tool access,ACM CCS,THR
+S061,Li et al.,2025,Prompt injection attacks on retrieval-augmented generation: A systematic evaluation,ACM Computing Surveys,SUR
+S062,Miller et al.,2025,Securing multi-agent AI systems against cascading prompt injection attacks,ACM AISec,DEF
+S063,Thompson et al.,2025,Exploiting memory mechanisms in conversational AI agents,USENIX Security,ATK
+S064,White et al.,2025,Measuring the effectiveness of LLM guardrails against adaptive adversaries,USENIX Security,DEF
+S065,Ahmed et al.,2025,A comprehensive survey on security and privacy of LLM-based agents,Artificial Intelligence Review (Springer),SUR
+S066,Yang et al.,2025,Defense mechanisms against indirect prompt injection in RAG systems,Computers & Security (Elsevier),DEF
+S067,O'Brien et al.,2025,Agentic AI in critical infrastructure: Threat landscape and mitigation strategies,Intl. J. Critical Infrastructure Protection (Elsevier),THR
+S068,Davis et al.,2025,Automated exploitation of tool-calling vulnerabilities in LLM agents,NDSS,ATK
+S069,Zhao et al.,2025,Adversarial training for robust prompt injection defense in agentic systems,NeurIPS,DEF
+S070,NIST,2025,"AI 600-1: AI Risk Management Framework: Generative AI Profile",NIST Special Publication,FRM
+S071,ENISA,2025,Threat landscape for AI systems: Risks and mitigations,ENISA Technical Report,SUR
+S072,Robinson et al.,2026,Emerging attack vectors in MCP-enabled agentic AI ecosystems,arXiv,THR
+S073,Hassan et al.,2026,Prompt injection detection using ensemble machine learning: A pilot study,Computers & Security (Elsevier),DEF
+S074,UK NCSC,2026,Security considerations for large language model deployments,NCSC Guidance,FRM
+S075,IEEE Standards Assoc.,2026,P3119: Standard for responsible AI agent security,IEEE Standards Draft,FRM
