@@ -11,7 +11,7 @@ This repository contains the **replication data, analysis scripts, and visualiza
 
 > **"When Agentic AI Meets Cybersecurity: A Systematic Literature Review of Threats, Attacks, and Defences"**
 >
-> *Bilal [Surname], Northumbria University, 2026*
+> *Dr Rao Faizan Ali, University of Kent, 2026*
 
 The study systematically reviews **75 peer-reviewed studies (2023–2026)** examining how agentic AI systems introduce new cybersecurity threats, with a focus on the **OWASP Agentic AI (ASI) Top 10** threat taxonomy.
 
@@ -179,9 +179,9 @@ This repository is licensed under the [MIT License](LICENSE). The datasets are p
 
 ## Contact
 
-- **Author**: Bilal [Surname]
-- **Affiliation**: Northumbria University, Newcastle upon Tyne, UK
-- **Email**: [your.email@northumbria.ac.uk]
+- **Author**: Dr Rao Faizan Ali
+- **Affiliation**: ICSS, University of Kent, Canterbury, Kent UK
+- **Email**: r.f.ali@Kent.ac.uk
 
 ---
 
