@@ -1,0 +1,123 @@
+Study_ID,ASI_Category,Threat_Name
+S001,ASI01,Agent Goal Hijack
+S002,ASI01,Agent Goal Hijack
+S003,ASI01,Agent Goal Hijack
+S004,ASI01,Agent Goal Hijack
+S004,ASI04,Unexpected Code Execution
+S005,ASI01,Agent Goal Hijack
+S006,ASI01,Agent Goal Hijack
+S006,ASI06,Human-Agent Trust Exploit.
+S007,ASI01,Agent Goal Hijack
+S008,ASI01,Agent Goal Hijack
+S009,ASI02,Tool Misuse & Exploitation
+S010,ASI01,Agent Goal Hijack
+S011,ASI01,Agent Goal Hijack
+S012,ASI05,Insecure Inter-Agent Comm.
+S014,ASI06,Human-Agent Trust Exploit.
+S015,ASI03,Identity & Privilege Abuse
+S016,ASI01,Agent Goal Hijack
+S017,ASI06,Human-Agent Trust Exploit.
+S017,ASI10,Rogue Agents
+S018,ASI06,Human-Agent Trust Exploit.
+S019,ASI01,Agent Goal Hijack
+S019,ASI05,Insecure Inter-Agent Comm.
+S019,ASI08,Memory & Context Poisoning
+S019,ASI09,Cascading Failures
+S020,ASI01,Agent Goal Hijack
+S021,ASI01,Agent Goal Hijack
+S022,ASI01,Agent Goal Hijack
+S023,ASI07,Supply Chain Vulnerabilities
+S023,ASI08,Memory & Context Poisoning
+S024,ASI07,Supply Chain Vulnerabilities
+S024,ASI08,Memory & Context Poisoning
+S025,ASI01,Agent Goal Hijack
+S025,ASI02,Tool Misuse & Exploitation
+S026,ASI02,Tool Misuse & Exploitation
+S026,ASI03,Identity & Privilege Abuse
+S026,ASI09,Cascading Failures
+S026,ASI10,Rogue Agents
+S029,ASI01,Agent Goal Hijack
+S029,ASI04,Unexpected Code Execution
+S030,ASI01,Agent Goal Hijack
+S031,ASI01,Agent Goal Hijack
+S033,ASI01,Agent Goal Hijack
+S033,ASI02,Tool Misuse & Exploitation
+S033,ASI04,Unexpected Code Execution
+S034,ASI02,Tool Misuse & Exploitation
+S034,ASI03,Identity & Privilege Abuse
+S034,ASI05,Insecure Inter-Agent Comm.
+S034,ASI07,Supply Chain Vulnerabilities
+S034,ASI09,Cascading Failures
+S035,ASI05,Insecure Inter-Agent Comm.
+S035,ASI06,Human-Agent Trust Exploit.
+S037,ASI02,Tool Misuse & Exploitation
+S037,ASI07,Supply Chain Vulnerabilities
+S038,ASI01,Agent Goal Hijack
+S038,ASI08,Memory & Context Poisoning
+S039,ASI01,Agent Goal Hijack
+S040,ASI04,Unexpected Code Execution
+S040,ASI10,Rogue Agents
+S042,ASI02,Tool Misuse & Exploitation
+S043,ASI04,Unexpected Code Execution
+S044,ASI03,Identity & Privilege Abuse
+S045,ASI06,Human-Agent Trust Exploit.
+S046,ASI01,Agent Goal Hijack
+S047,ASI10,Rogue Agents
+S048,ASI03,Identity & Privilege Abuse
+S048,ASI07,Supply Chain Vulnerabilities
+S049,ASI01,Agent Goal Hijack
+S050,ASI06,Human-Agent Trust Exploit.
+S050,ASI10,Rogue Agents
+S051,ASI01,Agent Goal Hijack
+S051,ASI08,Memory & Context Poisoning
+S052,ASI05,Insecure Inter-Agent Comm.
+S052,ASI09,Cascading Failures
+S052,ASI10,Rogue Agents
+S053,ASI01,Agent Goal Hijack
+S053,ASI02,Tool Misuse & Exploitation
+S053,ASI05,Insecure Inter-Agent Comm.
+S053,ASI08,Memory & Context Poisoning
+S054,ASI03,Identity & Privilege Abuse
+S054,ASI08,Memory & Context Poisoning
+S055,ASI07,Supply Chain Vulnerabilities
+S055,ASI09,Cascading Failures
+S056,ASI02,Tool Misuse & Exploitation
+S056,ASI04,Unexpected Code Execution
+S057,ASI10,Rogue Agents
+S058,ASI03,Identity & Privilege Abuse
+S058,ASI05,Insecure Inter-Agent Comm.
+S058,ASI09,Cascading Failures
+S059,ASI07,Supply Chain Vulnerabilities
+S060,ASI02,Tool Misuse & Exploitation
+S060,ASI04,Unexpected Code Execution
+S061,ASI08,Memory & Context Poisoning
+S062,ASI03,Identity & Privilege Abuse
+S062,ASI04,Unexpected Code Execution
+S062,ASI05,Insecure Inter-Agent Comm.
+S062,ASI09,Cascading Failures
+S063,ASI01,Agent Goal Hijack
+S063,ASI07,Supply Chain Vulnerabilities
+S063,ASI08,Memory & Context Poisoning
+S064,ASI03,Identity & Privilege Abuse
+S064,ASI10,Rogue Agents
+S065,ASI05,Insecure Inter-Agent Comm.
+S065,ASI09,Cascading Failures
+S066,ASI01,Agent Goal Hijack
+S066,ASI08,Memory & Context Poisoning
+S067,ASI06,Human-Agent Trust Exploit.
+S067,ASI07,Supply Chain Vulnerabilities
+S067,ASI09,Cascading Failures
+S068,ASI02,Tool Misuse & Exploitation
+S068,ASI04,Unexpected Code Execution
+S069,ASI10,Rogue Agents
+S070,ASI03,Identity & Privilege Abuse
+S071,ASI06,Human-Agent Trust Exploit.
+S072,ASI02,Tool Misuse & Exploitation
+S072,ASI07,Supply Chain Vulnerabilities
+S072,ASI10,Rogue Agents
+S073,ASI08,Memory & Context Poisoning
+S073,ASI10,Rogue Agents
+S074,ASI09,Cascading Failures
+S075,ASI05,Insecure Inter-Agent Comm.
+S075,ASI07,Supply Chain Vulnerabilities
+S075,ASI09,Cascading Failures
